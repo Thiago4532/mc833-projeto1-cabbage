@@ -14,11 +14,6 @@ Este projeto foi desenvolvido e testado em sistemas Linux.
 ### Programas necessários:
 - `gcc`
 - `make`
-  
-Para instalar os pacotes em um sistema baseado em Debian/Ubuntu:
-```bash
-sudo apt install build-essential
-```
 
 ## Compilação
 
