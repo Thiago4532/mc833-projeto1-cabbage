@@ -1,0 +1,6 @@
+COMMON_LIB = $(COMMON_DIR)/cabbage/common/Packet.o
+
+$(COMMON_LIB): COMMON_FORCE
+	@$(MAKE) -C $(COMMON_DIR)
+
+COMMON_FORCE:

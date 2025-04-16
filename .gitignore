@@ -1,0 +1,6 @@
+*.d
+*.o
+client/cabbage-client
+server/cabbage-server
+compile_commands.json
+cabbage.log
